@@ -6,7 +6,6 @@ const options = {
 	  type: "line",
 	  background: "#f4f4f4",
 	  foreColor: "#333"
-      },
 	},
 	// plotOptions: {
 	//   bar: {
