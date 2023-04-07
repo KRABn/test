@@ -680,6 +680,14 @@ const options = {
 	dataLabels: {
 		enabled: false
 	},
+		stroke: {
+		show: true,
+		curve: 'smooth',
+		lineCap: 'butt',
+		colors: undefined,
+		width: 2,
+		dashArray: 0,      
+	},
 
 	title: {
 		text: "M9 Bayonet BlueBlood",
